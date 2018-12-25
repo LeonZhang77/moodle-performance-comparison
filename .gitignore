@@ -4,6 +4,4 @@ runs_samples/data.*
 runs_outputs/*.output
 runs/*
 moodle/
-jmeter_config.properties
-webserver_config.properties
-test_files.properties
+
